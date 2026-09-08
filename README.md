@@ -49,7 +49,7 @@ graco_small/
 ├── align_icp.py
 ├── align_with_groundtruth.py
 ├── refine_icp_search.py
-├── view_sections.py
+├── view_merged.py
 ├── requirements.txt
 └── README.md
 ```
